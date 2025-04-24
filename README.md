@@ -1,1 +1,1 @@
-# team-guessing-game-
+# team-guessing-game
